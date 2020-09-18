@@ -1,0 +1,13 @@
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\obj\Debug\netcoreapp3.1\RSA_DEMO.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\obj\Debug\netcoreapp3.1\RSA_DEMO.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\obj\Debug\netcoreapp3.1\RSA_DEMO.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\obj\Debug\netcoreapp3.1\RSA_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\bin\Debug\netcoreapp3.1\RSA_DEMO.exe
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\bin\Debug\netcoreapp3.1\RSA_DEMO.deps.json
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\bin\Debug\netcoreapp3.1\RSA_DEMO.runtimeconfig.json
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\bin\Debug\netcoreapp3.1\RSA_DEMO.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\bin\Debug\netcoreapp3.1\RSA_DEMO.dll
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\bin\Debug\netcoreapp3.1\RSA_DEMO.pdb
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\obj\Debug\netcoreapp3.1\RSA_DEMO.dll
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\obj\Debug\netcoreapp3.1\RSA_DEMO.pdb
+C:\Users\Alexander\source\repos\RSA_DEMO\RSA_DEMO\obj\Debug\netcoreapp3.1\RSA_DEMO.genruntimeconfig.cache
